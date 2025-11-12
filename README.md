@@ -46,8 +46,7 @@ Web-app built with a clean, data-driven UX and modular component architecture. U
 
 
 ## 📷 Screenshots / Demo  
-![Home Screen](assets/screenshots/home-screen.png)  
-![Library Screen](assets/screenshots/library-screen.png)  
+
 
 Or view the demo: [Demo Video](https://youtu.be/…)  
 
